@@ -1,3 +1,3 @@
 # RollTheDiceiOS
 
-https://imgur.com/gallery/7fA2gov
+![alt text](https://imgur.com/gallery/7fA2gov)
